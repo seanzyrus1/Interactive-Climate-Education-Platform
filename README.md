@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/131e744e-37a0-4dfe-a776-e4b0e7be71dd)
 ![image](https://github.com/user-attachments/assets/910c333c-0f95-4060-806d-ab304450890d)
 
-To provide a comprehensive learning environment for users to understand climate science, impacts, and solutions.
+Objective: To provide a comprehensive learning environment for users to understand climate science, impacts, and solutions.
 
 
 
